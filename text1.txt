@@ -5,3 +5,7 @@ created new new repo
 selected readme.md
 
 later we created text file called text1.txt
+
+follow above procedures to do work in git hub
+
+Thank you:)
