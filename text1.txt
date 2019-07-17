@@ -6,6 +6,12 @@ selected readme.md
 
 later we created text file called text1.txt
 
+
 now want to learn how to create branches in git
 
 we make some changes
+
+follow above procedures to do work in git hub
+
+Thank you:)
+
