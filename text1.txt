@@ -1,1 +1,7 @@
 just logged in to git
+
+created new new repo
+
+selected readme.md
+
+later we created text file called text1.txt
